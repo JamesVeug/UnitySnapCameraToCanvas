@@ -1,7 +1,7 @@
 # UnitySnapCameraToCanvas
 Script that aligns a Camera to a World Canvas
 
-![](assets/readme_align.gif)
+![](readme_align.gif)
 
 
 ###### How To Use:
